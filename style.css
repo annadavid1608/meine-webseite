@@ -1,0 +1,45 @@
+@charset "utf-8";
+body {
+  background-color: black;
+  color: white;
+}
+
+p {
+    list-style: none; 
+    position: absolute;}
+.c1 {
+    color: #E76CAD; }
+.c2 {
+    color: #4848AD;}
+.c3 {
+	color: #9D9DD9;}
+.c4 {
+	color: #A02B97;}
+.fs1 {
+    font-size: 1em;
+}
+.fs2 {
+    font-size: 2em;
+}
+.fs3 {
+    font-size: 4em;
+}
+.ff1 {font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"}
+.ff2 {font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"}
+
+.rot1 {transform: rotate(90deg);}
+.rot2 {transform: rotate(270deg);}
+.rot3 {transform: rotate(270deg);}
+
+#w1 {top: 150px; left: 300px;}
+#w2 {top: 160px; left: 210px;}
+#w3 {top: 250px; left: 270px;}
+#w4 {top: 150px; left: 300px;}
+#w5 {top: 250px; left: 535px;}
+#w6 {top: 230px; left: 640px;}
+#w7 {top: 235px; left: 640px;}
+#w8 {top: 150px; left: 210px;}
+#w9 {top: 310px; left: 400px;}
+#w10 {top: 250px; left: 500px;}
+#w11 {top: 175px; left: 480px;}
+#w12 {top: 310px; left: 350px;}
